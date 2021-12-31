@@ -195,7 +195,6 @@ div.col-sm-3 img.profile-avatar {
 
 .collapsible {
   cursor: pointer;
-  padding: 9px;
   width: 100%;
   border: none;
   text-align: left;
@@ -205,6 +204,7 @@ div.col-sm-3 img.profile-avatar {
 
 .collapsible:after {
   content: '\002B';
+  color: #666;
   font-weight: bold;
   float: right;
   margin-left: 5px;
@@ -212,6 +212,7 @@ div.col-sm-3 img.profile-avatar {
 
 .active:after {
   content: "\2212";
+  color: #666;
 }
 
 .content {
