@@ -1,0 +1,2037 @@
+{
+  "Table 3": [
+    {
+      "Título Masculino": "Engenheiro Ambiental",
+      "Título Feminino": "Engenheira Ambiental",
+      "Título Abreviado": "Eng. Amb."
+    },
+    {
+      "Título Masculino": "Engenheiro Ambiental e da Sustentabilidade",
+      "Título Feminino": "Engenheira Ambiental e da Sustentabilidade",
+      "Título Abreviado": "Eng. Amb. Sustent."
+    },
+    {
+      "Título Masculino": "Engenheiro Ambiental e Energias Renováveis",
+      "Título Feminino": "Engenheira Ambiental e Energias Renováveis",
+      "Título Abreviado": "Eng. Amb. Energ. Renov."
+    },
+    {
+      "Título Masculino": "Engenheiro Ambiental e Sanitarista",
+      "Título Feminino": "Engenheira Ambiental e Sanitarista",
+      "Título Abreviado": "Eng. Amb. Sanit."
+    },
+    {
+      "Título Masculino": "Engenheiro Ambiental e Urbana",
+      "Título Feminino": "Engenheiro Ambiental e Urbana",
+      "Título Abreviado": "Eng. Amb. Urb."
+    },
+    {
+      "Título Masculino": "Engenheiro Civil",
+      "Título Feminino": "Engenheira Civil",
+      "Título Abreviado": "Eng. Civ."
+    },
+    {
+      "Título Masculino": "Engenheiro Civil Costeiro e Portuário",
+      "Título Feminino": "Engenheira Civil Costeira e Portuária",
+      "Título Abreviado": "Eng. Civ. Cost. Port."
+    },
+    {
+      "Título Masculino": "Engenheiro Civil da Mobilidade",
+      "Título Feminino": "Engenheira Civil da Mobilidade",
+      "Título Abreviado": "Eng. Civ. Mob."
+    },
+    {
+      "Título Masculino": "Engenheiro Civil de Infraestrutura",
+      "Título Feminino": "Engenheira Civil de Infraestrutura",
+      "Título Abreviado": "Eng. Civ. Infraestrut."
+    },
+    {
+      "Título Masculino": "Engenheiro Civil e Ambiental",
+      "Título Feminino": "Engenheira Civil e Ambiental",
+      "Título Abreviado": "Eng. Civ. Amb."
+    },
+    {
+      "Título Masculino": "Engenheiro Civil Empresarial",
+      "Título Feminino": "Engenheira Civil Empresarial",
+      "Título Abreviado": "Eng. Civ. Empres."
+    },
+    {
+      "Título Masculino": "Engenheiro de Fortificação e Construção",
+      "Título Feminino": "Engenheira de Fortificação e Construção",
+      "Título Abreviado": "Eng. Fort. Constr."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Construção Civil",
+      "Título Feminino": "Engenheira de Operação - Construção Civil",
+      "Título Abreviado": "Eng. Oper. Constr. Civ."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Construção de Estradas",
+      "Título Feminino": "Engenheira de Operação - Construção de Estradas",
+      "Título Abreviado": "Eng. Oper. Constr. Estr."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Edificações",
+      "Título Feminino": "Engenheira de Operação - Edificações",
+      "Título Abreviado": "Eng. Oper. Edif."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Estradas",
+      "Título Feminino": "Engenheira de Operação - Estradas",
+      "Título Abreviado": "Eng. Oper. Estr."
+    },
+    {
+      "Título Masculino": "Engenheiro Industrial - Civil",
+      "Título Feminino": "Engenheira Industrial - Civil",
+      "Título Abreviado": "Eng. Ind. Civ."
+    },
+    {
+      "Título Masculino": "Engenheiro Militar",
+      "Título Feminino": "Engenheira Militar",
+      "Título Abreviado": "Eng. Mil."
+    },
+    {
+      "Título Masculino": "Engenheiro Sanitarista",
+      "Título Feminino": "Engenheira Sanitarista",
+      "Título Abreviado": "Eng. Sanit."
+    },
+    {
+      "Título Masculino": "Engenheiro Sanitarista e Ambiental",
+      "Título Feminino": "Engenheira Sanitarista e Ambiental",
+      "Título Abreviado": "Eng. Sanit. Amb."
+    },
+    {
+      "Título Masculino": "Engenheiro de Infra-Estrutura Aeronáutica",
+      "Título Feminino": "Engenheira de Infra-Estrutura Aeronáutica",
+      "Título Abreviado": "Eng. Infra-Estrut. Aeron."
+    },
+    {
+      "Título Masculino": "Engenheiro de Produção - Civil",
+      "Título Feminino": "Engenheira de Produção - Civil",
+      "Título Abreviado": "Eng. Prod. Civ."
+    },
+    {
+      "Título Masculino": "Engenheiro Hídrico",
+      "Título Feminino": "Engenheira Hídrica",
+      "Título Abreviado": "Eng. Hidr."
+    },
+    {
+      "Título Masculino": "Urbanista",
+      "Título Feminino": "Urbanista",
+      "Título Abreviado": "Urb."
+    },
+    {
+      "Título Masculino": "Engenheiro de Transportes",
+      "Título Feminino": "Engenheira de Transportes",
+      "Título Abreviado": "Eng. Transp."
+    },
+    {
+      "Título Masculino": "Engenheiro de Transporte e Logística",
+      "Título Feminino": "Engenheira de Transporte e Logística",
+      "Título Abreviado": "Eng. Transp. e Logist."
+    },
+    {
+      "Título Masculino": "Engenheiro de Transportes e Logística",
+      "Título Feminino": "Engenheira de Transportes e Logística",
+      "Título Abreviado": "Eng. Transps. e Logist."
+    },
+    {
+      "Título Masculino": "Engenheiro Ferroviário e de Logística",
+      "Título Feminino": "Engenheira Ferroviária e de Logística",
+      "Título Abreviado": "Eng. Ferrov. Logist."
+    },
+    {
+      "Título Masculino": "Engenheiro Ferroviário e Metroviário",
+      "Título Feminino": "Engenheira Ferroviária e Metroviária",
+      "Título Abreviado": "Eng. Ferrov. Metrov."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Construção Civil",
+      "Título Feminino": "Tecnóloga em Construção Civil",
+      "Título Abreviado": "Tecg. Constr. Civ."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Construção Civil - Edificações",
+      "Título Feminino": "Tecnóloga em Construção Civil - Edificações",
+      "Título Abreviado": "Tecg. Constr. Civ. Edif."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Construção Civil - Estrada e Topografia",
+      "Título Feminino": "Tecnóloga em Construção Civil - Estrada e Topografia",
+      "Título Abreviado": "Tecg. Constr. Civ. Estr. Topogr."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Construção Civil - Movimento de Terra e",
+      "Título Feminino": "Tecnóloga em Construção Civil - Movimento de Terra e",
+      "Título Abreviado": "Tecg. Constr. Civ. Mov. Terra Pav."
+    },
+    {
+      "Título Masculino": "Pavimentação",
+      "Título Feminino": "Pavimentação"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Construção Civil - Obras de Solos",
+      "Título Feminino": "Tecnóloga em Construção Civil - Obras de Solos",
+      "Título Abreviado": "Tecg. Constr. Civ. Obr. Solos"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Construção Civil - Obras Hidráulicas",
+      "Título Feminino": "Tecnóloga em Construção Civil - Obras Hidráulicas",
+      "Título Abreviado": "Tecg. Constr. Civ. Obr. Hidr."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Construção Civil - Terraplenagem",
+      "Título Feminino": "Tecnóloga em Construção Civil - Terraplenagem",
+      "Título Abreviado": "Tecg. Constr. Civ. Terrapl."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Construção de Edifícios",
+      "Título Feminino": "Tecnóloga em Construção de Edifícios",
+      "Título Abreviado": "Tecg. Constr. Edif."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Edificações",
+      "Título Feminino": "Tecnóloga em Edificações",
+      "Título Abreviado": "Tecg. Edif."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Estradas",
+      "Título Feminino": "Tecnóloga em Estradas",
+      "Título Abreviado": "Tecg. Estr."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Operação e Administração de Sistemas de",
+      "Título Feminino": "Tecnóloga em Operação e Administração de Sistemas de",
+      "Título Abreviado": "Tecg. Oper. Adm. Naveg. Fluv."
+    },
+    {
+      "Título Masculino": "Navegação Fluvial",
+      "Título Feminino": "Navegação Fluvial"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Saneamento",
+      "Título Feminino": "Tecnóloga em Saneamento",
+      "Título Abreviado": "Tecg. Saneam."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Saneamento Ambiental",
+      "Título Feminino": "Tecnóloga em Saneamento Ambiental",
+      "Título Abreviado": "Tecg. Saneam. Amb."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Hidráulica e Saneamento Ambiental",
+      "Título Feminino": "Tecnóloga em Hidráulica e Saneamento Ambiental",
+      "Título Abreviado": "Tecg. Hidraul. Saneam. Amb."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Saneamento Básico",
+      "Título Feminino": "Tecnóloga em Saneamento Básico",
+      "Título Abreviado": "Tecg. Saneam. Básico"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Controle de Obras",
+      "Título Feminino": "Tecnóloga em Controle de Obras",
+      "Título Abreviado": "Tecg. Contr. Obras"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Transporte Terrestre - Urbano",
+      "Título Feminino": "Tecnóloga em Transporte Terrestre - Urbano",
+      "Título Abreviado": "Tecg. Transp. Terr. Urb."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Processos Ambientais",
+      "Título Feminino": "Tecnóloga em Processos Ambientais",
+      "Título Abreviado": "Tecg. Proc. Amb."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Gestão Ambiental",
+      "Título Feminino": "Tecnóloga em Gestão Ambiental",
+      "Título Abreviado": "Tecg. Gest. Amb."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Gestão de Resíduos Sólidos",
+      "Título Feminino": "Tecnóloga em Gestão de Resíduos Sólidos",
+      "Título Abreviado": "Tecg. Gest. Resid. Solid."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Obras Hidráulicas",
+      "Título Feminino": "Tecnóloga em Obras Hidráulicas",
+      "Título Abreviado": "Tecg. Obras Hidr."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Sistemas de Navegação Fluvial",
+      "Título Feminino": "Tecnóloga em Sistemas de Navegação Fluvial",
+      "Título Abreviado": "Tecg. Sist. Naveg. Fluv."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Transporte Terrestre",
+      "Título Feminino": "Tecnóloga em Transporte Terrestre",
+      "Título Abreviado": "Tecg. Trans. Transp. Ter."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Controle Ambiental",
+      "Título Feminino": "Tecnóloga em Controle Ambiental",
+      "Título Abreviado": "Tecg. Contr. Amb."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Design de Interiores",
+      "Título Feminino": "Tecnóloga em Design de Interiores",
+      "Título Abreviado": "Tecg. Design Inter."
+    },
+    {
+      "Título Masculino": "Engenheiro de Computação",
+      "Título Feminino": "Engenheira de Computação",
+      "Título Abreviado": "Eng. Comp."
+    },
+    {
+      "Título Masculino": "Engenheiro Computacional",
+      "Título Feminino": "Engenheira Computacional",
+      "Título Abreviado": "Eng. Comput."
+    },
+    {
+      "Título Masculino": "Engenheiro de Computação e Informação",
+      "Título Feminino": "Engenheira de Computação e Informação",
+      "Título Abreviado": "Eng. Comp. e Inf."
+    },
+    {
+      "Título Masculino": "Engenheiro de Comunicações",
+      "Título Feminino": "Engenheira de Comunicação",
+      "Título Abreviado": "Eng. Comunic."
+    },
+    {
+      "Título Masculino": "Engenheiro de Controle e Automação",
+      "Título Feminino": "Engenheira de Controle e Automação",
+      "Título Abreviado": "Eng. Contr. Autom."
+    },
+    {
+      "Título Masculino": "Engenheiro de Automação",
+      "Título Feminino": "Engenheira de Automação",
+      "Título Abreviado": "Eng. Autom."
+    },
+    {
+      "Título Masculino": "Engenheiro de Automação e Controle",
+      "Título Feminino": "Engenheira de Automação e Controle",
+      "Título Abreviado": "Eng. Autom. e Control."
+    },
+    {
+      "Título Masculino": "Engenheiro de Automação Empresarial",
+      "Título Feminino": "Engenheira de Automação Empresarial",
+      "Título Abreviado": "Eng. Autom. Empres."
+    },
+    {
+      "Título Masculino": "Engenheiro de Automação Industrial",
+      "Título Feminino": "Engenheira de Automação Industrial",
+      "Título Abreviado": "Eng. Autom. Ind."
+    },
+    {
+      "Título Masculino": "Engenheiro de Controle e Automação de Processos",
+      "Título Feminino": "Engenheira de Controle e Automação de Processos",
+      "Título Abreviado": "Eng. Contr. Autom. Proc."
+    },
+    {
+      "Título Masculino": "Engenheiro de Instrumentação, Automação e Robótica",
+      "Título Feminino": "Engenheira de Instrumentação, Automação e Robótica",
+      "Título Abreviado": "Eng. Instrum. Autom. Robot."
+    },
+    {
+      "Título Masculino": "Engenheiro Físico",
+      "Título Feminino": "Engenheira Física",
+      "Título Abreviado": "Eng. Fis."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Eletrônica",
+      "Título Feminino": "Engenheira de Operação -  Eletrônica",
+      "Título Abreviado": "Eng. Oper. Eletron."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Eletrotécnica",
+      "Título Feminino": "Engenheira de Operação - Eletrotécnica",
+      "Título Abreviado": "Eng. Oper. Eletrotec."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Telecomunicações",
+      "Título Feminino": "Engenheira de Operação - Telecomunicações",
+      "Título Abreviado": "Eng. Oper. Telecom."
+    },
+    {
+      "Título Masculino": "Engenheiro de Produção - Eletricista",
+      "Título Feminino": "Engenheira de Produção -  Eletricista",
+      "Título Abreviado": "Eng. Prod. Eletr."
+    },
+    {
+      "Título Masculino": "Engenheiro de Telecomunicações",
+      "Título Feminino": "Engenheira de Telecomunicações",
+      "Título Abreviado": "Eng. Telecom."
+    },
+    {
+      "Título Masculino": "Engenheiro de Transmissão",
+      "Título Feminino": "Engenheira de Transmissão",
+      "Título Abreviado": "Eng. Transm."
+    },
+    {
+      "Título Masculino": "Engenheiro Eletricista",
+      "Título Feminino": "Engenheira Eletricista",
+      "Título Abreviado": "Eng. Eletric."
+    },
+    {
+      "Título Masculino": "Engenheiro Eletricista - Eletrônica",
+      "Título Feminino": "Engenheira Eletricista - Eletrônica",
+      "Título Abreviado": "Eng. Eletric. Eletron."
+    },
+    {
+      "Título Masculino": "Engenheiro Eletricista - Eletrotécnica",
+      "Título Feminino": "Engenheira Eletricista - Eletrotécnica",
+      "Título Abreviado": "Eng. Eletric. Eletrotec."
+    },
+    {
+      "Título Masculino": "Engenheiro Eletricista – Energia",
+      "Título Feminino": "Engenheira Eletricista - Energia",
+      "Título Abreviado": "Eng. Eletric. Energ."
+    },
+    {
+      "Título Masculino": "Engenheiro Eletricista - Telecomunicações",
+      "Título Feminino": "Engenheira Eletricista - Telecomunicações",
+      "Título Abreviado": "Eng. Eletric. Telecom."
+    },
+    {
+      "Título Masculino": "Engenheiro Eletricista - Robótica e Automação Industrial",
+      "Título Feminino": "Engenheira Eletricista - Robótica e Automação Industrial",
+      "Título Abreviado": "Eng. Eletric. Robot. Autom. Ind."
+    },
+    {
+      "Título Masculino": "Engenheiro Eletricista e Eletrônico",
+      "Título Feminino": "Engenheira Eletricista e Eletrônica",
+      "Título Abreviado": "Eng. Eletric. e Eletron."
+    },
+    {
+      "Título Masculino": "Engenheiro em Eletrônica",
+      "Título Feminino": "Engenheira em Eletrônica",
+      "Título Abreviado": "Eng. Eletron."
+    },
+    {
+      "Título Masculino": "Engenheiro em Eletrônica e de Computação",
+      "Título Feminino": "Engenheira em Eletrônica e de Computação",
+      "Título Abreviado": "Eng. Eletron. e Comput."
+    },
+    {
+      "Título Masculino": "Engenheiro em Eletrônica e de Telecomunicações",
+      "Título Feminino": "Engenheira em Eletrônica e de Telecomunicações",
+      "Título Abreviado": "Eng. Eletron. e Telecom"
+    },
+    {
+      "Título Masculino": "Engenheiro em Eletrotécnica",
+      "Título Feminino": "Engenheira em Eletrotécnica",
+      "Título Abreviado": "Eng. Eletrotec."
+    },
+    {
+      "Título Masculino": "Engenheiro Industrial - Elétrica",
+      "Título Feminino": "Engenheira Industrial -  Elétrica",
+      "Título Abreviado": "Eng. Ind. Eletr."
+    },
+    {
+      "Título Masculino": "Engenheiro Industrial - Eletrônica",
+      "Título Feminino": "Engenheira Industrial -  Eletrônica",
+      "Título Abreviado": "Eng. Ind. Eletron."
+    },
+    {
+      "Título Masculino": "Engenheiro Industrial - Eletrotécnica",
+      "Título Feminino": "Engenheira Industrial -  Eletrotécnica",
+      "Título Abreviado": "Eng. Ind. Eletrotec."
+    },
+    {
+      "Título Masculino": "Engenheiro Industrial - Telecomunicações",
+      "Título Feminino": "Engenheira Industrial -  Telecomunicações",
+      "Título Abreviado": "Eng. Ind. Telecom."
+    },
+    {
+      "Título Masculino": "Engenheiro Biomédico",
+      "Título Feminino": "Engenheira Biomédica",
+      "Título Abreviado": "Eng. Biomed."
+    },
+    {
+      "Título Masculino": "Engenheiro de Energia",
+      "Título Feminino": "Engenheira de Energia",
+      "Título Abreviado": "Eng. Energ."
+    },
+    {
+      "Título Masculino": "Engenheiro de Energias",
+      "Título Feminino": "Engenheira de Energias",
+      "Título Abreviado": "Eng. Energs."
+    },
+    {
+      "Título Masculino": "Engenheiro de Energias Renováveis",
+      "Título Feminino": "Engenheira de Energias Renováveis",
+      "Título Abreviado": "Eng. Energs. Renov."
+    },
+    {
+      "Título Masculino": "Engenheiro de Gestão de Energia",
+      "Título Feminino": "Engenheira de Gestão de Energia",
+      "Título Abreviado": "Eng. Gest. Energ."
+    },
+    {
+      "Título Masculino": "Engenheiro de Bioenergia",
+      "Título Feminino": "Engenheira de Bioenergia",
+      "Título Abreviado": "Eng. Bioenerg."
+    },
+    {
+      "Título Masculino": "Engenheiro de Software",
+      "Título Feminino": "Engenheira de Software",
+      "Título Abreviado": "Eng. Soft."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Automação Industrial",
+      "Título Feminino": "Tecnóloga em Automação Industrial",
+      "Título Abreviado": "Tecg. Autom. Ind."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Automação e Manufatura Digital",
+      "Título Feminino": "Tecnóloga em Automação e Manufatura Digital",
+      "Título Abreviado": "Tecg. Autom. e Manufat. Dig."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Sistemas Embarcados",
+      "Título Feminino": "Tecnóloga em Sistemas Embarcados",
+      "Título Abreviado": "Tecg. Sist. Embarc."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Distribuição de Energia Elétrica",
+      "Título Feminino": "Tecnóloga em Distribuição de Energia Elétrica",
+      "Título Abreviado": "Tecg. Distr. Energ. Eletr."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Eletricidade",
+      "Título Feminino": "Tecnóloga em Eletricidade",
+      "Título Abreviado": "Tecg. Eletricid."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Eletrônica",
+      "Título Feminino": "Tecnóloga em Eletrônica",
+      "Título Abreviado": "Tecg. Eletron."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Eletrônica Automotiva",
+      "Título Feminino": "Tecnóloga em Eletrônica Automotiva",
+      "Título Abreviado": "Tecg. Eletron. Automot."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Microeletrônica",
+      "Título Feminino": "Tecnóloga em Microeletrônica",
+      "Título Abreviado": "Tecg. Microeletron."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Eletrônica Industrial",
+      "Título Feminino": "Tecnóloga em Eletrônica Industrial",
+      "Título Abreviado": "Tecg. Eletron. Ind."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Eletrotécnica",
+      "Título Feminino": "Tecnóloga em Eletrotécnica",
+      "Título Abreviado": "Tecg. Eletrotec."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Instrumentação e Controle",
+      "Título Feminino": "Tecnóloga em Instrumentação e Controle",
+      "Título Abreviado": "Tecg. Instr. Contr."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Máquinas Elétricas",
+      "Título Feminino": "Tecnóloga em Máquinas Elétricas",
+      "Título Abreviado": "Tecg. Maq. Eletr."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Sistemas Elétricos",
+      "Título Feminino": "Tecnóloga em Sistemas Elétricos",
+      "Título Abreviado": "Tecg. Sist. Eletr."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Técnicas Digitais",
+      "Título Feminino": "Tecnóloga em Técnicas Digitais",
+      "Título Abreviado": "Tecg. Tec. Dig."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Telecomunicações",
+      "Título Feminino": "Tecnóloga em Telecomunicações",
+      "Título Abreviado": "Tecg. Telecom."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Telecomunicações - Telefonia e Redes Externas",
+      "Título Feminino": "Tecnóloga em Telecomunicações -  Telefonia e Redes Externas",
+      "Título Abreviado": "Tecg. Telecom. Telef. Redes Ext."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Redes de Telecomunicações",
+      "Título Feminino": "Tecnóloga em Redes de Telecomunicações",
+      "Título Abreviado": "Tecg. Redes Telecom."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Sistemas de Telecomunicações",
+      "Título Feminino": "Tecnóloga em Sistemas de Telecomunicações",
+      "Título Abreviado": "Tecg. Sist. Telecom"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Gestão de Telecomunicações",
+      "Título Feminino": "Tecnóloga em Gestão de Telecomunicações",
+      "Título Abreviado": "Tecg. Gest. Telecom."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Comunicações Digitais",
+      "Título Feminino": "Tecnóloga em Comunicações Digitais",
+      "Título Abreviado": "Tecg. Comunic. Dig."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Sistemas de Telefonia",
+      "Título Feminino": "Tecnóloga em Sistemas de Telefonia",
+      "Título Abreviado": "Tecg. Sist. Telef."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Transmissão e Distribuição Elétrica",
+      "Título Feminino": "Tecnóloga em Transmissão e Distribuição Elétrica",
+      "Título Abreviado": "Tecg. Transm. Distr. Eletr."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Redes de Computadores",
+      "Título Feminino": "Tecnóloga em Redes de Computadores",
+      "Título Abreviado": "Tecg. Redes Comp."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Sistemas de Comunicação sem Fio",
+      "Título Feminino": "Tecnóloga em Sistemas de Comunicação sem Fio",
+      "Título Abreviado": "Tecg. Sist. Comunic. Sem Fio"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Eletrotécnica Industrial",
+      "Título Feminino": "Tecnóloga em Eletrotécnica Industrial",
+      "Título Abreviado": "Tecg. Eletrotec. Ind."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Energias Renováveis",
+      "Título Feminino": "Tecnóloga em Energias Renováveis",
+      "Título Abreviado": "Tecg. Energ. Renov."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Eletromecânica",
+      "Título Feminino": "Tecnóloga em Eletromecânica",
+      "Título Abreviado": "Tecg. Eletromec."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Sistemas Biomédicos",
+      "Título Feminino": "Tecnóloga em Sistemas Biomédicos",
+      "Título Abreviado": "Tecg. Sist. Biomed."
+    },
+    {
+      "Título Masculino": "Engenheiro Aeronáutico",
+      "Título Feminino": "Engenheira Aeronáutica",
+      "Título Abreviado": "Eng. Aeron."
+    },
+    {
+      "Título Masculino": "Engenheiro Aeronáutico e Espaço",
+      "Título Feminino": "Engenheira Aeronáutica e Espaço",
+      "Título Abreviado": "Eng. Aeron. Espac."
+    },
+    {
+      "Título Masculino": "Engenheiro Mecânico e de Armamento",
+      "Título Feminino": "Engenheira Mecânica e de Armamento",
+      "Título Abreviado": "Eng. Mec. Armam."
+    },
+    {
+      "Título Masculino": "Engenheiro Mecânico e de Automóvel",
+      "Título Feminino": "Engenheira Mecânica e de Automóvel",
+      "Título Abreviado": "Eng. Mec. Auto."
+    },
+    {
+      "Título Masculino": "Engenheiro Mecânico Automotivo",
+      "Título Feminino": "Engenheira Mecânica Automotiva",
+      "Título Abreviado": "Eng. Mec. Automot."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Aeronáutica",
+      "Título Feminino": "Engenheira de Operação -  Aeronáutica",
+      "Título Abreviado": "Eng. Oper. Aeron."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Fabricação Mecânica",
+      "Título Feminino": "Engenheira de Operação -  Fabricação Mecânica",
+      "Título Abreviado": "Eng. Oper. Fabric. Mec."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Indústria da Madeira",
+      "Título Feminino": "Engenheira de Operação -  Indústria da Madeira",
+      "Título Abreviado": "Eng. Oper. Ind. Mad."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Máquinas e Motores",
+      "Título Feminino": "Engenheira de Operação -  Máquinas e Motores",
+      "Título Abreviado": "Eng. Oper. Maq. Motores"
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Mecânica",
+      "Título Feminino": "Engenheira de Operação -  Mecânica",
+      "Título Abreviado": "Eng. Oper. Mec."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Mecânica Automobilística",
+      "Título Feminino": "Engenheira de Operação -  Mecânica Automobilística",
+      "Título Abreviado": "Eng. Oper. Mec. Auto."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Mecânica de Manutenção",
+      "Título Feminino": "Engenheira de Operação -  Mecânica de Manutenção",
+      "Título Abreviado": "Eng. Oper. Mec. Manut."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Mecânica de Máquinas e Ferramentas",
+      "Título Feminino": "Engenheira de Operação -  Mecânica de Máquinas e Ferramentas",
+      "Título Abreviado": "Eng. Oper. Mec. Maq. Ferram."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Metalurgista",
+      "Título Feminino": "Engenheira de Operação -  Metalurgista",
+      "Título Abreviado": "Eng. Oper. Metal."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Processo de Fabricação Mecânica",
+      "Título Feminino": "Engenheira de Operação -  Processo de Fabricação Mecânica",
+      "Título Abreviado": "Eng. Oper. Proc. Fab. Mec."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Produção",
+      "Título Feminino": "Engenheira de Operação -  Produção",
+      "Título Abreviado": "Eng. Oper. Prod."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Refrigeração e Ar Condicionado",
+      "Título Feminino": "Engenheira de Operação -  Refrigeração e Ar Condicionado",
+      "Título Abreviado": "Eng. Oper. Refrig. Ar Cond."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Siderurgia",
+      "Título Feminino": "Engenheira de Operação -  Siderurgia",
+      "Título Abreviado": "Eng. Oper. Siderur."
+    },
+    {
+      "Título Masculino": "Engenheiro de Produção",
+      "Título Feminino": "Engenheira de Produção",
+      "Título Abreviado": "Eng. Prod."
+    },
+    {
+      "Título Masculino": "Engenheiro de Produção -  Mecânica",
+      "Título Feminino": "Engenheira de Produção -  Mecânica",
+      "Título Abreviado": "Eng. Prod. Mec."
+    },
+    {
+      "Título Masculino": "Engenheiro de Produção -  Metalurgista",
+      "Título Feminino": "Engenheira de Produção -  Metalurgista",
+      "Título Abreviado": "Eng. Prod. Metal."
+    },
+    {
+      "Título Masculino": "Engenheiro de Produção - Agroindústria",
+      "Título Feminino": "Engenheira de Produção - Agroindústria",
+      "Título Abreviado": "Eng. Prod. Agroind."
+    },
+    {
+      "Título Masculino": "Engenheiro de Produção e Qualidade",
+      "Título Feminino": "Engenheira de Produção e Qualidade",
+      "Título Abreviado": "Eng. Prod. e Qualid."
+    },
+    {
+      "Título Masculino": "Engenheiro de Produção e Sistemas",
+      "Título Feminino": "Engenheira de Produção e Sistemas",
+      "Título Abreviado": "Eng. Prod. e Sist."
+    },
+    {
+      "Título Masculino": "Engenheiro Industrial -  Madeira",
+      "Título Feminino": "Engenheira Industrial -  Madeira",
+      "Título Abreviado": "Eng. Ind. Mad."
+    },
+    {
+      "Título Masculino": "Engenheiro Industrial -  Mecânica",
+      "Título Feminino": "Engenheira Industrial -  Mecânica",
+      "Título Abreviado": "Eng. Ind. Mec."
+    },
+    {
+      "Título Masculino": "Engenheiro Industrial -  Metalurgia",
+      "Título Feminino": "Engenheira Industrial -  Metalurgia",
+      "Título Abreviado": "Eng. Ind. Metal."
+    },
+    {
+      "Título Masculino": "Engenheiro Industrial Madeireiro",
+      "Título Feminino": "Engenheira Industrial Madeireira",
+      "Título Abreviado": "Eng. Ind. Madeir."
+    },
+    {
+      "Título Masculino": "Engenheiro Mecânico",
+      "Título Feminino": "Engenheira Mecânica",
+      "Título Abreviado": "Eng. Mec."
+    },
+    {
+      "Título Masculino": "Engenheiro Mecânico - Automação e Sistemas",
+      "Título Feminino": "Engenheira Mecânica - Automação e Sistemas",
+      "Título Abreviado": "Eng. Mec. - Autom. Sist."
+    },
+    {
+      "Título Masculino": "Engenheiro Mecânico Naval",
+      "Título Feminino": "Engenheira Mecânica Naval",
+      "Título Abreviado": "Eng. Mec. Naval"
+    },
+    {
+      "Título Masculino": "Engenheiro Mecânico Empresarial",
+      "Título Feminino": "Engenheira Mecânica Empresarial",
+      "Título Abreviado": "Eng. Mec. Empres."
+    },
+    {
+      "Título Masculino": "Engenheiro Mecânico Aeronáutico",
+      "Título Feminino": "Engenheira Mecânica Aeronáutica",
+      "Título Abreviado": "Eng. Mec. Aeron."
+    },
+    {
+      "Título Masculino": "Engenheiro Metalurgista",
+      "Título Feminino": "Engenheira Metalurgista",
+      "Título Abreviado": "Eng. Metal."
+    },
+    {
+      "Título Masculino": "Engenheiro Naval",
+      "Título Feminino": "Engenheira Naval",
+      "Título Abreviado": "Eng. Naval"
+    },
+    {
+      "Título Masculino": "Engenheiro Naval e Oceânico",
+      "Título Feminino": "Engenheira Naval e Oceânico",
+      "Título Abreviado": "Eng. Naval Ocean."
+    },
+    {
+      "Título Masculino": "Engenheiro Mecânico Eletricista",
+      "Título Feminino": "Engenheira Mecânica Eletricista",
+      "Título Abreviado": "Eng. Mec. Eletric."
+    },
+    {
+      "Título Masculino": "Engenheiro Acústico",
+      "Título Feminino": "Engenheira Acústica",
+      "Título Abreviado": "Eng. Acust."
+    },
+    {
+      "Título Masculino": "Engenheiro Automotivo",
+      "Título Feminino": "Engenheira Automotiva",
+      "Título Abreviado": "Eng. Automot."
+    },
+    {
+      "Título Masculino": "Engenheiro Aeroespacial",
+      "Título Feminino": "Engenheira Aeroespacial",
+      "Título Abreviado": "Eng. Aeroesp."
+    },
+    {
+      "Título Masculino": "Engenheiro Mecatrônico",
+      "Título Feminino": "Engenheira Mecatrônica",
+      "Título Abreviado": "Eng. Mecatron."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Aeronaves",
+      "Título Feminino": "Tecnóloga em Aeronaves",
+      "Título Abreviado": "Tecg. Aeronav."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Projeto de Estruturas Aeronáuticas",
+      "Título Feminino": "Tecnóloga em Projeto de Estruturas Aeronáuticas",
+      "Título Abreviado": "Tecg. Proj. Estrut. Aeron."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Manufatura Aeronáutica",
+      "Título Feminino": "Tecnóloga em Manufatura Aeronáutica",
+      "Título Abreviado": "Tecg. Manufat. Aeron."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Manutenção de Aeronaves",
+      "Título Feminino": "Tecnóloga em Manutenção de Aeronaves",
+      "Título Abreviado": "Tecg. Manut. Aeron."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Construção Naval",
+      "Título Feminino": "Tecnóloga em Construção Naval",
+      "Título Abreviado": "Tecg. Constr. Naval"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Eletromecânica",
+      "Título Feminino": "Tecnóloga em Eletromecânica",
+      "Título Abreviado": "Tecg. Eletromec."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Indústria da Madeira",
+      "Título Feminino": "Tecnóloga em Indústria da Madeira",
+      "Título Abreviado": "Tecg. Ind. Mad."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Manutenção de Máquinas e Equipamentos",
+      "Título Feminino": "Tecnóloga em Manutenção de Máquinas e Equipamentos",
+      "Título Abreviado": "Tecg. Manut. Maq. Equip."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Máquinas",
+      "Título Feminino": "Tecnóloga em Máquinas",
+      "Título Abreviado": "Tecg. Maq."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Máquinas e Equipamentos",
+      "Título Feminino": "Tecnóloga em Máquinas e Equipamentos",
+      "Título Abreviado": "Tecg. Maq. Equip."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Mecânica",
+      "Título Feminino": "Tecnóloga em Mecânica",
+      "Título Abreviado": "Tecg. Mec."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Mecânica -  Automobilismo",
+      "Título Feminino": "Tecnóloga em Mecânica -  Automobilismo",
+      "Título Abreviado": "Tecg. Mec. Auto."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Mecânica -  Desenhista Projetista",
+      "Título Feminino": "Tecnóloga em Mecânica -  Desenhista Projetista",
+      "Título Abreviado": "Tecg. Mec. Des. Proj."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Mecânica -  Oficinas",
+      "Título Feminino": "Tecnóloga em Mecânica -  Oficinas",
+      "Título Abreviado": "Tecg. Mec. Ofic."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Mecânica -  Produção Industrial de Móveis",
+      "Título Feminino": "Tecnóloga em Mecânica -  Produção Industrial de Móveis",
+      "Título Abreviado": "Tecg. Mec. Prod. Ind."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Mecânica -  Soldagem",
+      "Título Feminino": "Tecnóloga em Mecânica -  Soldagem",
+      "Título Abreviado": "Tecg. Mec. Sold."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Mecânica - Processos Industriais",
+      "Título Feminino": "Tecnóloga em Mecânica - Processos Industriais",
+      "Título Abreviado": "Tecg. Mec. Proc. Ind."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Mecânica de Precisão",
+      "Título Feminino": "Tecnóloga em Mecânica de Precisão",
+      "Título Abreviado": "Tecg. Mec. de Prec."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Mecânica, Oficina e Manutenção",
+      "Título Feminino": "Tecnóloga em Mecânica, Oficina e Manutenção",
+      "Título Abreviado": "Tecg. Mec. Ofic. Manut."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Metalurgia",
+      "Título Feminino": "Tecnóloga em Metalurgia",
+      "Título Abreviado": "Tecg. Metal."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Processos Metalúrgicos",
+      "Título Feminino": "Tecnóloga em Processos Metalúrgicos",
+      "Título Abreviado": "Tecg. Proc. Metal."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Processo de Produção e Usinagem",
+      "Título Feminino": "Tecnóloga em Processo de Produção e Usinagem",
+      "Título Abreviado": "Tecg. Proc. Prod. Usinag."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Produção de Calçados",
+      "Título Feminino": "Tecnóloga em Produção de Calçados",
+      "Título Abreviado": "Tecg. Prod. Calçados"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Produção de Couro",
+      "Título Feminino": "Tecnóloga em Produção de Couro",
+      "Título Abreviado": "Tecg. Prod. Couro"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Siderúrgica",
+      "Título Feminino": "Tecnóloga em Siderúrgica",
+      "Título Abreviado": "Tecg. Siderur."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Soldagem",
+      "Título Feminino": "Tecnóloga em Soldagem",
+      "Título Abreviado": "Tecg. Sold."
+    },
+    {
+      "Título Masculino": "Tecnólogo Naval",
+      "Título Feminino": "Tecnóloga Naval",
+      "Título Abreviado": "Tecg. Naval"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Qualidade Total",
+      "Título Feminino": "Tecnóloga em Qualidade Total",
+      "Título Abreviado": "Tecg. Qualid. Total"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Mecatrônica Industrial",
+      "Título Feminino": "Tecnóloga em Mecatrônica Industrial",
+      "Título Abreviado": "Tecg. Mecatron. Ind."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Mecatrônica Automotiva",
+      "Título Feminino": "Tecnóloga em Mecatrônica Automotiva",
+      "Título Abreviado": "Tecg. Mecatron. Automot."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Gestão da Produção Industrial",
+      "Título Feminino": "Tecnóloga em Gestão da Produção Industrial",
+      "Título Abreviado": "Tecg. Gest. Prod. Ind."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Produção Industrial",
+      "Título Feminino": "Tecnóloga em Produção Industrial",
+      "Título Abreviado": "Tecg. Prod. Ind."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Fabricação Mecânica",
+      "Título Feminino": "Tecnóloga em Fabricação Mecânica",
+      "Título Abreviado": "Tecg. Fab. Mec."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Gestão da Qualidade",
+      "Título Feminino": "Tecnóloga em Gestão da Qualidade",
+      "Título Abreviado": "Tecg. Gest. Qualid."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Manutenção Industrial",
+      "Título Feminino": "Tecnóloga em Manutenção Industrial",
+      "Título Abreviado": "Tecg. Manut. Ind."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Produção Moveleira",
+      "Título Feminino": "Tecnóloga em Produção Moveleira",
+      "Título Abreviado": "Tecg. Prod. Movel."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Refrigeração e Climatização",
+      "Título Feminino": "Tecnóloga em Refrigeração e Climatização",
+      "Título Abreviado": "Tecg. Refrig. e Climat."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Refrigeração, Ventilação e Ar Condicionado",
+      "Título Feminino": "Tecnóloga em Refrigeração, Ventilação e Ar Condicionado",
+      "Título Abreviado": "Tecg. Refrig. Vent. Ar Cond."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Sistemas Automotivos",
+      "Título Feminino": "Tecnóloga em Sistemas Automotivos",
+      "Título Abreviado": "Tecg. Sist. Autom."
+    },
+    {
+      "Título Masculino": "Engenheiro de Alimentos",
+      "Título Feminino": "Engenheira de Alimentos",
+      "Título Abreviado": "Eng. Alim."
+    },
+    {
+      "Título Masculino": "Engenheiro de Materiais",
+      "Título Feminino": "Engenheira de Materiais",
+      "Título Abreviado": "Eng. Mat."
+    },
+    {
+      "Título Masculino": "Engenheiro de Materiais e Manufatura",
+      "Título Feminino": "Engenheira de Materiais e Manufatura",
+      "Título Abreviado": "Eng. Mat. Manufat."
+    },
+    {
+      "Título Masculino": "Engenheiro de Materiais e Nanotecnologia",
+      "Título Feminino": "Engenheira de Materiais e Nanotecnologia",
+      "Título Abreviado": "Eng. Mat. Nanotec."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Petroquímica",
+      "Título Feminino": "Engenheira de Operação -  Petroquímica",
+      "Título Abreviado": "Eng. Oper. Petroq."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Química",
+      "Título Feminino": "Engenheira de Operação -  Química",
+      "Título Abreviado": "Eng. Oper. Quim."
+    },
+    {
+      "Título Masculino": "Engenheiro de Operação - Têxtil",
+      "Título Feminino": "Engenheira de Operação -  Têxtil",
+      "Título Abreviado": "Eng. Oper. Têxtil"
+    },
+    {
+      "Título Masculino": "Engenheiro de Produção -  Materiais",
+      "Título Feminino": "Engenheira de Produção -  Materiais",
+      "Título Abreviado": "Eng. Prod. Mat."
+    },
+    {
+      "Título Masculino": "Engenheiro de Produção -  Química",
+      "Título Feminino": "Engenheira de Produção -  Química",
+      "Título Abreviado": "Eng. Prod. Quim."
+    },
+    {
+      "Título Masculino": "Engenheiro de Produção -  Têxtil",
+      "Título Feminino": "Engenheira de Produção -  Têxtil",
+      "Título Abreviado": "Eng. Prod. Têxtil"
+    },
+    {
+      "Título Masculino": "Engenheiro Industrial -  Química",
+      "Título Feminino": "Engenheira Industrial -  Química",
+      "Título Abreviado": "Eng. Ind. Quim."
+    },
+    {
+      "Título Masculino": "Engenheiro Químico",
+      "Título Feminino": "Engenheira Química",
+      "Título Abreviado": "Eng. Quím."
+    },
+    {
+      "Título Masculino": "Engenheiro Têxtil",
+      "Título Feminino": "Engenheira Têxtil",
+      "Título Abreviado": "Eng. Têxtil"
+    },
+    {
+      "Título Masculino": "Engenheiro de Petróleo",
+      "Título Feminino": "Engenheira de Petróleo",
+      "Título Abreviado": "Eng. Petrol."
+    },
+    {
+      "Título Masculino": "Engenheiro de Plástico",
+      "Título Feminino": "Engenheira de Plástico",
+      "Título Abreviado": "Eng. Plast."
+    },
+    {
+      "Título Masculino": "Engenheiro Bioquímico",
+      "Título Feminino": "Engenheira Bioquímica",
+      "Título Abreviado": "Eng. Bioquím."
+    },
+    {
+      "Título Masculino": "Engenheiro Nuclear",
+      "Título Feminino": "Engenheira Nuclear",
+      "Título Abreviado": "Eng. Nucl."
+    },
+    {
+      "Título Masculino": "Engenheiro de Bioprocessos e Biotecnologia",
+      "Título Feminino": "Engenheira de Bioprocessos e Biotecnologia",
+      "Título Abreviado": "Eng. Bioproc. e Biotec."
+    },
+    {
+      "Título Masculino": "Engenheiro de Bioprocessos",
+      "Título Feminino": "Engenheira de Bioprocessos",
+      "Título Abreviado": "Eng. Bioproc."
+    },
+    {
+      "Título Masculino": "Engenheiro de Biotecnologia",
+      "Título Feminino": "Engenheira de Biotecnologia",
+      "Título Abreviado": "Eng. Biotec."
+    },
+    {
+      "Título Masculino": "Engenheiro de Biotecnologia e Bioprocessos",
+      "Título Feminino": "Engenheira de Biotecnologia e Bioprocessos",
+      "Título Abreviado": "Eng. Biotec. e Bioproc."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Alimentos",
+      "Título Feminino": "Tecnóloga em Alimentos",
+      "Título Abreviado": "Tecg. Alim."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Cerâmica",
+      "Título Feminino": "Tecnóloga em Cerâmica",
+      "Título Abreviado": "Tecg. Cer."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Indústria Têxtil",
+      "Título Feminino": "Tecnóloga em Indústria Têxtil",
+      "Título Abreviado": "Tecg. Ind. Têxtil"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Materiais",
+      "Título Feminino": "Tecnóloga em Materiais",
+      "Título Abreviado": "Tecg. Mat."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Processos Petroquímicos",
+      "Título Feminino": "Tecnóloga em Processos Petroquímicos",
+      "Título Abreviado": "Tecg. Proc. Petroq."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Química",
+      "Título Feminino": "Tecnóloga em Química",
+      "Título Abreviado": "Tecg. Quim."
+    },
+    {
+      "Título Masculino": "Tecnólogo Têxtil",
+      "Título Feminino": "Tecnóloga Têxtil",
+      "Título Abreviado": "Tecg. Têxtil"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Produção Têxtil",
+      "Título Feminino": "Tecnóloga em Produção Têxtil",
+      "Título Abreviado": "Tecg. Prod. Têxtil"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Petróleo e Gás",
+      "Título Feminino": "Tecnóloga em Petróleo e Gás",
+      "Título Abreviado": "Tecg. Petrol. Gás"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Produção de Petróleo e Gás",
+      "Título Feminino": "Tecnóloga em Produção de Petróleo e Gás",
+      "Título Abreviado": "Tecg. Prod. Petrol. Gás"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Polímeros",
+      "Título Feminino": "Tecnóloga em Polímeros",
+      "Título Abreviado": "Tecg. Polim."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Produção de Vestuário",
+      "Título Feminino": "Tecnóloga em Produção de Vestuário",
+      "Título Abreviado": "Tecg. Prod. Vest."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Processos Químicos",
+      "Título Feminino": "Tecnóloga em Processos Químicos",
+      "Título Abreviado": "Tecg. Proc. Quim."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Biocombustíveis",
+      "Título Feminino": "Tecnóloga em Biocombustíveis",
+      "Título Abreviado": "Tecg. Biocomb."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Gestão de Resíduos de Saúde",
+      "Título Feminino": "Tecnóloga em Gestão de Resíduos de Saúde",
+      "Título Abreviado": "Tecg. Gest. Resid. Saúde"
+    },
+    {
+      "Título Masculino": "Engenheiro de Minas",
+      "Título Feminino": "Engenheira de Minas",
+      "Título Abreviado": "Eng. Minas"
+    },
+    {
+      "Título Masculino": "Engenheiro de Minas e Meio Ambiente",
+      "Título Feminino": "Engenheira de Minas e Meio Ambiente",
+      "Título Abreviado": "Eng. Minas e Meio Amb."
+    },
+    {
+      "Título Masculino": "Engenheiro Geólogo",
+      "Título Feminino": "Engenheira Geóloga",
+      "Título Abreviado": "Eng. Geol."
+    },
+    {
+      "Título Masculino": "Geólogo",
+      "Título Feminino": "Geóloga",
+      "Título Abreviado": "Geol."
+    },
+    {
+      "Título Masculino": "Engenheiro de Exploração e Produção de Petróleo",
+      "Título Feminino": "Engenheira de Exploração e Produção de Petróleo",
+      "Título Abreviado": "Eng. Expl. Prod. Petrol."
+    },
+    {
+      "Título Masculino": "Tecnólogo de Minas",
+      "Título Feminino": "Tecnóloga de Minas",
+      "Título Abreviado": "Tecg. Minas"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Mineração",
+      "Título Feminino": "Tecnóloga em Mineração",
+      "Título Abreviado": "Tecg. Miner."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Manutenção Petroquímica",
+      "Título Feminino": "Tecnóloga em Manutenção Petroquímica",
+      "Título Abreviado": "Tecg. Manut. Petroq."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Rochas Ornamentais",
+      "Título Feminino": "Tecnóloga em Rochas Ornamentais",
+      "Título Abreviado": "Tecg. Roc. Ornam."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Geologia",
+      "Título Feminino": "Tecnóloga em Geologia",
+      "Título Abreviado": "Tecg. Geol."
+    },
+    {
+      "Título Masculino": "Agrimensor",
+      "Título Feminino": "Agrimensora",
+      "Título Abreviado": "Agrim."
+    },
+    {
+      "Título Masculino": "Engenheiro Agrimensor",
+      "Título Feminino": "Engenheira Agrimensora",
+      "Título Abreviado": "Eng. Agrim."
+    },
+    {
+      "Título Masculino": "Engenheiro Cartógrafo",
+      "Título Feminino": "Engenheira Cartógrafa",
+      "Título Abreviado": "Eng. Cartog."
+    },
+    {
+      "Título Masculino": "Engenheiro de Geodésia",
+      "Título Feminino": "Engenheira de Geodésia",
+      "Título Abreviado": "Eng. Geod."
+    },
+    {
+      "Título Masculino": "Engenheiro em Topografia Rural",
+      "Título Feminino": "Engenheira em Topografia Rural",
+      "Título Abreviado": "Eng. Topog. Rural"
+    },
+    {
+      "Título Masculino": "Engenheiro Geógrafo",
+      "Título Feminino": "Engenheira Geógrafa",
+      "Título Abreviado": "Eng. Geog."
+    },
+    {
+      "Título Masculino": "Engenheiro Topógrafo",
+      "Título Feminino": "Engenheira Topógrafa",
+      "Título Abreviado": "Eng. Topog."
+    },
+    {
+      "Título Masculino": "Geógrafo",
+      "Título Feminino": "Geógrafa",
+      "Título Abreviado": "Geog."
+    },
+    {
+      "Título Masculino": "Engenheiro Agrimensor e Cartógrafo",
+      "Título Feminino": "Engenheira Agrimensora e Cartógrafa",
+      "Título Abreviado": "Eng. Agrim. e Cartog."
+    },
+    {
+      "Título Masculino": "Engenheiro Cartógrafo e Agrimensor",
+      "Título Feminino": "Engenheira Cartógrafa e Agrimensora",
+      "Título Abreviado": "Eng. Cartog. e Agrim."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Topografia",
+      "Título Feminino": "Tecnóloga em Topografia",
+      "Título Abreviado": "Tecg. Topog."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Geoprocessamento",
+      "Título Feminino": "Tecnóloga em Geoprocessamento",
+      "Título Abreviado": "Tecg. Geoproc."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Agrimensura",
+      "Título Feminino": "Tecnóloga em Agrimensura",
+      "Título Abreviado": "Tecg. Agrim."
+    },
+    {
+      "Título Masculino": "Engenheiro Agrícola",
+      "Título Feminino": "Engenheira Agrícola",
+      "Título Abreviado": "Eng. Agric."
+    },
+    {
+      "Título Masculino": "Engenheiro Agrônomo",
+      "Título Feminino": "Engenheira Agrônoma",
+      "Título Abreviado": "Eng. Agr."
+    },
+    {
+      "Título Masculino": "Engenheiro de Pesca",
+      "Título Feminino": "Engenheira de Pesca",
+      "Título Abreviado": "Eng. Pesca"
+    },
+    {
+      "Título Masculino": "Engenheiro Florestal",
+      "Título Feminino": "Engenheira Florestal",
+      "Título Abreviado": "Eng. Ftal."
+    },
+    {
+      "Título Masculino": "Meteorologista",
+      "Título Feminino": "Meteorologista",
+      "Título Abreviado": "Meteorol."
+    },
+    {
+      "Título Masculino": "Engenheiro Agroindustrial",
+      "Título Feminino": "Engenheira Agroindustrial",
+      "Título Abreviado": "Eng. Agroind."
+    },
+    {
+      "Título Masculino": "Engenheiro Agroindustrial Agroquímica",
+      "Título Feminino": "Engenheira Agroindustrial Agroquímica",
+      "Título Abreviado": "Eng. Agroind. Agroq."
+    },
+    {
+      "Título Masculino": "Engenheiro de Aqüicultura",
+      "Título Feminino": "Engenheira de Aqüicultura",
+      "Título Abreviado": "Eng. Aqüicult."
+    },
+    {
+      "Título Masculino": "Engenheiro de Aqüicultura e Recursos Hídricos",
+      "Título Feminino": "Engenheira de Aqüicultura e Recursos Hídricos",
+      "Título Abreviado": "Eng. Aqüicult. Rec. Hidric."
+    },
+    {
+      "Título Masculino": "Engenheiro Agrícola e Ambiental",
+      "Título Feminino": "Engenheira Agrícola e Ambiental",
+      "Título Abreviado": "Eng. Agric. Amb."
+    },
+    {
+      "Título Masculino": "Engenheiro de Agronegócios",
+      "Título Feminino": "Engenheira de Agronegócios",
+      "Título Abreviado": "Eng. Agroneg."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Açúcar e Álcool",
+      "Título Feminino": "Tecnóloga em Açúcar e Álcool",
+      "Título Abreviado": "Tecg. Açúcar Alc."
+    },
+    {
+      "Título Masculino": "Tecnólogo Sucroalcooleiro",
+      "Título Feminino": "Tecnóloga Sucroalcooleira",
+      "Título Abreviado": "Tecg. Sucroalc."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Administração Rural",
+      "Título Feminino": "Tecnóloga em Administração Rural",
+      "Título Abreviado": "Tecg. Adm. Rural"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Agricultura",
+      "Título Feminino": "Tecnóloga em Agricultura",
+      "Título Abreviado": "Tecg. Agric."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Agronomia",
+      "Título Feminino": "Tecnóloga em Agronomia",
+      "Título Abreviado": "Tecg. Agr."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Agropecuária",
+      "Título Feminino": "Tecnóloga em Agropecuária",
+      "Título Abreviado": "Tecg. Agropec."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Agropecuária Integrada",
+      "Título Feminino": "Tecnóloga em Agropecuária Integrada",
+      "Título Abreviado": "Tecg. Agropec. Integr."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Aqüicultura",
+      "Título Feminino": "Tecnóloga em Aqüicultura",
+      "Título Abreviado": "Tecg. Aqüicult."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Bovinocultura",
+      "Título Feminino": "Tecnóloga em Bovinocultura",
+      "Título Abreviado": "Tecg. Bovin."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Ciências Agrárias",
+      "Título Feminino": "Tecnóloga em Ciências Agrárias",
+      "Título Abreviado": "Tecg. Cienc. Agrar."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Cooperativismo",
+      "Título Feminino": "Tecnóloga em Cooperativismo",
+      "Título Abreviado": "Tecg. Cooperat."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Curtumes e Tanantes",
+      "Título Feminino": "Tecnóloga em Curtumes e Tanantes",
+      "Título Abreviado": "Tecg. Curt. Tanant."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Fitotecnia",
+      "Título Feminino": "Tecnóloga em Fitotecnia",
+      "Título Abreviado": "Tecg. Fitotec."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Fruticultura",
+      "Título Feminino": "Tecnóloga em Fruticultura",
+      "Título Abreviado": "Tecg. Fruticult."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Fruticultura de Clima Temperado",
+      "Título Feminino": "Tecnóloga em Fruticultura de Clima Temperado",
+      "Título Abreviado": "Tecg. Fruticult. Clima Temp."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Heveicultura",
+      "Título Feminino": "Tecnóloga em Heveicultura",
+      "Título Abreviado": "Tecg. Heveicult."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Laticínios",
+      "Título Feminino": "Tecnóloga em Laticínios",
+      "Título Abreviado": "Tecg. Latic."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Mecanização Agrícola",
+      "Título Feminino": "Tecnóloga em Mecanização Agrícola",
+      "Título Abreviado": "Tecg. Mec. Agric."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Meteorologia",
+      "Título Feminino": "Tecnóloga em Meteorologia",
+      "Título Abreviado": "Tecg. Meteorol."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Pecuária",
+      "Título Feminino": "Tecnóloga em Pecuária",
+      "Título Abreviado": "Tecg. Pec."
+    },
+    {
+      "Título Masculino": "Tecnólogo Industrial de Açúcar de Cana",
+      "Título Feminino": "Tecnóloga Industrial de Açúcar de Cana",
+      "Título Abreviado": "Tecg. Ind. Açúcar Cana"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Recursos Hídricos e Irrigação",
+      "Título Feminino": "Tecnóloga em Recursos Hídricos e Irrigação",
+      "Título Abreviado": "Tecg. Rec. Hidr. Irrig."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Horticultura",
+      "Título Feminino": "Tecnóloga em Horticultura",
+      "Título Abreviado": "Tecg. Hortic."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Irrigação e Drenagem",
+      "Título Feminino": "Tecnóloga em Irrigação e Drenagem",
+      "Título Abreviado": "Tecg. Irrig. Drenag."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Agroindústria",
+      "Título Feminino": "Tecnóloga em Agroindústria",
+      "Título Abreviado": "Tecg. Agroind."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Agroecologia",
+      "Título Feminino": "Tecnóloga em Agroecologia",
+      "Título Abreviado": "Tecg. Agroecol."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Viticultura e Enologia",
+      "Título Feminino": "Tecnóloga em Viticultura e Enologia",
+      "Título Abreviado": "Tecg. Vit. Enol."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Cafeicultura",
+      "Título Feminino": "Tecnóloga em Cafeicultura",
+      "Título Abreviado": "Tecg. Cafeicult."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Silvicultura",
+      "Título Feminino": "Tecnóloga em Silvicultura",
+      "Título Abreviado": "Tecg. Silvicult."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Paisagismo e Jardinagem",
+      "Título Feminino": "Tecnóloga em Paisagismo e Jardinagem",
+      "Título Abreviado": "Tecg. Paisag. Jard."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Produção de Grãos",
+      "Título Feminino": "Tecnóloga em Produção de Grãos",
+      "Título Abreviado": "Tecg. Prod. Grãos"
+    },
+    {
+      "Título Masculino": "Tecnólogo em Agronegócios",
+      "Título Feminino": "Tecnóloga em Agronegócios",
+      "Título Abreviado": "Tecg. Agroneg."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Produção Sucroalcooleira",
+      "Título Feminino": "Tecnóloga em Produção Sucroalcooleira",
+      "Título Abreviado": "Tecg. Prod. Sucroalc."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Gestão de Cooperativas",
+      "Título Feminino": "Tecnóloga em Gestão de Cooperativas",
+      "Título Abreviado": "Tecg. Gest. Coop."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Gestão de Recursos Hídricos",
+      "Título Feminino": "Tecnóloga em Gestão de Recursos Hídricos",
+      "Título Abreviado": "Tecg. Gest. Rec. Hidr."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Processos Cervejeiros",
+      "Título Feminino": "Tecnóloga em Processos Cervejeiros",
+      "Título Abreviado": "Tecg. Proc. Cervej."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Produção Cervejeira",
+      "Título Feminino": "Tecnóloga em Produção Cervejeira",
+      "Título Abreviado": "Tecg. Prod. Cervej."
+    },
+    {
+      "Título Masculino": "Tecnólogo em Produção de Cerveja",
+      "Título Feminino": "Tecnóloga em Produção de Cerveja",
+      "Título Abreviado": "Tecg. Proc. de Cervej."
+    },
+    {
+      "Título Masculino": "Engenheiro de Saúde e Segurança",
+      "Título Feminino": "Engenheira de Saúde e Segurança",
+      "Título Abreviado": "Eng. Saúde Seg."
+    },
+    {
+      "Título Masculino": "Tecnólogo de Segurança do Trabalho",
+      "Título Feminino": "Tecnóloga de Segurança do Trabalho",
+      "Título Abreviado": "Tecg. Seg. Trab."
+    },
+    {
+      "Título Masculino": "Técnico de Segurança do Trabalho",
+      "Título Feminino": "Técnica de Segurança do Trabalho",
+      "Título Abreviado": "Tec. Seg. Trab."
+    },
+    {
+      "Título Masculino": "Engenheiro de Segurança do Trabalho",
+      "Título Feminino": "Engenheira de Segurança do Trabalho",
+      "Título Abreviado": "Eng. Seg. Trab."
+    },
+    {
+      "Título Masculino": "Técnico em Construção Civil",
+      "Título Feminino": "Técnica em Construção Civil",
+      "Título Abreviado": "Tec. Constr. Civ."
+    },
+    {
+      "Título Masculino": "Técnico em Desenho de Construção Civil",
+      "Título Feminino": "Técnica em Desenho de Construção Civil",
+      "Título Abreviado": "Tec. Des. Constr. Civ."
+    },
+    {
+      "Título Masculino": "Técnico em Desenho de Projetos",
+      "Título Feminino": "Técnica em Desenho de Projetos",
+      "Título Abreviado": "Tec. Des. Proj."
+    },
+    {
+      "Título Masculino": "Técnico em Edificações",
+      "Título Feminino": "Técnica em Edificações",
+      "Título Abreviado": "Tec. Edif."
+    },
+    {
+      "Título Masculino": "Técnico em Estradas",
+      "Título Feminino": "Técnica em Estradas",
+      "Título Abreviado": "Tec. Estr."
+    },
+    {
+      "Título Masculino": "Técnico em Estradas e Pontes",
+      "Título Feminino": "Técnica em Estradas e Pontes",
+      "Título Abreviado": "Tec. Estr. Pontes"
+    },
+    {
+      "Título Masculino": "Técnico em Hidrologia",
+      "Título Feminino": "Técnica em Hidrologia",
+      "Título Abreviado": "Tec. Hidrol."
+    },
+    {
+      "Título Masculino": "Técnico em Saneamento",
+      "Título Feminino": "Técnica em Saneamento",
+      "Título Abreviado": "Tec. Saneam."
+    },
+    {
+      "Título Masculino": "Técnico em Transportes Rodoviários",
+      "Título Feminino": "Técnica em Transportes Rodoviários",
+      "Título Abreviado": "Tec. Transp. Rodov."
+    },
+    {
+      "Título Masculino": "Técnico em Meio Ambiente",
+      "Título Feminino": "Técnica em Meio Ambiente",
+      "Título Abreviado": "Tec. Meio Amb."
+    },
+    {
+      "Título Masculino": "Técnico em Automação Industrial",
+      "Título Feminino": "Técnica em Automação Industrial",
+      "Título Abreviado": "Tec. Autom. Ind."
+    },
+    {
+      "Título Masculino": "Técnico em Automação Industrial Eletrônica",
+      "Título Feminino": "Técnica em Automação Industrial Eletrônica",
+      "Título Abreviado": "Tec. Autom. Ind. Eletron."
+    },
+    {
+      "Título Masculino": "Técnico em Eletricidade",
+      "Título Feminino": "Técnica em Eletricidade",
+      "Título Abreviado": "Tec. Eletric."
+    },
+    {
+      "Título Masculino": "Técnico em Eletromecânica",
+      "Título Feminino": "Técnica em Eletromecânica",
+      "Título Abreviado": "Tec. Eletromec."
+    },
+    {
+      "Título Masculino": "Técnico em Eletrônica",
+      "Título Feminino": "Técnica em Eletrônica",
+      "Título Abreviado": "Tec. Eletron."
+    },
+    {
+      "Título Masculino": "Técnico em Eletrônica - Telecomunicações",
+      "Título Feminino": "Técnica em Eletrônica - Telecomunicações",
+      "Título Abreviado": "Tec. Eletron. Telecom."
+    },
+    {
+      "Título Masculino": "Técnico em Eletrotécnica",
+      "Título Feminino": "Técnica em Eletrotécnica",
+      "Título Abreviado": "Tec. Eletrotec."
+    },
+    {
+      "Título Masculino": "Técnico em Informática Industrial",
+      "Título Feminino": "Técnica em Informática Industrial",
+      "Título Abreviado": "Tec. Inform. Ind."
+    },
+    {
+      "Título Masculino": "Técnico em Instrumentação",
+      "Título Feminino": "Técnica em Instrumentação",
+      "Título Abreviado": "Tec. Instrum."
+    },
+    {
+      "Título Masculino": "Técnico em Microinformática",
+      "Título Feminino": "Técnica em Microinformática",
+      "Título Abreviado": "Tec. Microinform."
+    },
+    {
+      "Título Masculino": "Técnico em Proteção Radiológica",
+      "Título Feminino": "Técnica em Proteção Radiológica",
+      "Título Abreviado": "Tec. Prot. Radiol."
+    },
+    {
+      "Título Masculino": "Técnico em Telecomunicações",
+      "Título Feminino": "Técnica em Telecomunicações",
+      "Título Abreviado": "Tec. Telecom."
+    },
+    {
+      "Título Masculino": "Técnico em Telefonia",
+      "Título Feminino": "Técnica em Telefonia",
+      "Título Abreviado": "Tec. Telef."
+    },
+    {
+      "Título Masculino": "Técnico em Mecatrônica",
+      "Título Feminino": "Técnica em Mecatrônica",
+      "Título Abreviado": "Tec. Mecatron."
+    },
+    {
+      "Título Masculino": "Técnico em Eletroeletrônica",
+      "Título Feminino": "Técnica em Eletroeletrônica",
+      "Título Abreviado": "Tec. Eletroeletron."
+    },
+    {
+      "Título Masculino": "Técnico em Manutenção de Computadores",
+      "Título Feminino": "Técnica em Manutenção de Computadores",
+      "Título Abreviado": "Tec. Manut. Computad."
+    },
+    {
+      "Título Masculino": "Técnico em Redes de Comunicação",
+      "Título Feminino": "Técnica em Redes de Comunicação",
+      "Título Abreviado": "Tec. Redes Comunic."
+    },
+    {
+      "Título Masculino": "Técnico em Manutenção de Equipamentos Médico-Hospitalares",
+      "Título Feminino": "Técnica em Manutenção de Equipamentos Médico-Hospitalares",
+      "Título Abreviado": " Tec. Manut. Equip. Med. Hosp."
+    },
+    {
+      "Título Masculino": "Técnico Desenhista de Máquinas",
+      "Título Feminino": "Técnica Desenhista de Máquinas",
+      "Título Abreviado": "Tec. Des. Maq."
+    },
+    {
+      "Título Masculino": "Técnico em Aeronáutica",
+      "Título Feminino": "Técnica em Aeronáutica",
+      "Título Abreviado": "Tec. Aeron."
+    },
+    {
+      "Título Masculino": "Técnico em Aeronaves",
+      "Título Feminino": "Técnica em Aeronaves",
+      "Título Abreviado": "Tec. Aeronav."
+    },
+    {
+      "Título Masculino": "Técnico em Automobilística",
+      "Título Feminino": "Técnica em Automobilística",
+      "Título Abreviado": "Tec. Auto."
+    },
+    {
+      "Título Masculino": "Técnico em Calçados",
+      "Título Feminino": "Técnica em Calçados",
+      "Título Abreviado": "Tec. Calçados"
+    },
+    {
+      "Título Masculino": "Técnico em Construção de Máquinas e Motores",
+      "Título Feminino": "Técnica em Construção de Máquinas e Motores",
+      "Título Abreviado": "Tec. Constr. Maq. Mot."
+    },
+    {
+      "Título Masculino": "Técnico em Construção Naval",
+      "Título Feminino": "Técnica em Construção Naval",
+      "Título Abreviado": "Tec. Constr. Naval"
+    },
+    {
+      "Título Masculino": "Técnico em Estruturas Navais",
+      "Título Feminino": "Técnica em Estruturas Navais",
+      "Título Abreviado": "Tec. Estr. Navais"
+    },
+    {
+      "Título Masculino": "Técnico em Fundição",
+      "Título Feminino": "Técnica em Fundição",
+      "Título Abreviado": "Tec. Fund."
+    },
+    {
+      "Título Masculino": "Técnico em Manutenção de Aeronaves",
+      "Título Feminino": "Técnica em Manutenção de Aeronaves",
+      "Título Abreviado": "Tec. Manut. Areonav."
+    },
+    {
+      "Título Masculino": "Técnico em Máquinas",
+      "Título Feminino": "Técnica em Máquinas",
+      "Título Abreviado": "Tec. Maq."
+    },
+    {
+      "Título Masculino": "Técnico em Máquinas e Motores",
+      "Título Feminino": "Técnica em Máquinas e Motores",
+      "Título Abreviado": "Tec. Maq. Mot."
+    },
+    {
+      "Título Masculino": "Técnico em Máquinas Navais",
+      "Título Feminino": "Técnica em Máquinas Navais",
+      "Título Abreviado": "Tec. Maq. Navais"
+    },
+    {
+      "Título Masculino": "Técnico em Mecânica",
+      "Título Feminino": "Técnica em Mecânica",
+      "Título Abreviado": "Tec. Mec."
+    },
+    {
+      "Título Masculino": "Técnico em Mecânica de Precisão",
+      "Título Feminino": "Técnica em Mecânica de Precisão",
+      "Título Abreviado": "Tec. Mec. Prec."
+    },
+    {
+      "Título Masculino": "Técnico em Metalurgia",
+      "Título Feminino": "Técnica em Metalurgia",
+      "Título Abreviado": "Tec. Metal."
+    },
+    {
+      "Título Masculino": "Técnico em Náutica",
+      "Título Feminino": "Técnica em Náutica",
+      "Título Abreviado": "Tec. Naut."
+    },
+    {
+      "Título Masculino": "Técnico em Operações de Reatores",
+      "Título Feminino": "Técnica em Operações de Reatores",
+      "Título Abreviado": "Tec. Oper. Reat."
+    },
+    {
+      "Título Masculino": "Técnico em Refrigeração e Ar Condicionado",
+      "Título Feminino": "Técnica em Refrigeração e Ar Condicionado",
+      "Título Abreviado": "Tec. Refrig. Ar Cond."
+    },
+    {
+      "Título Masculino": "Técnico em Siderurgia",
+      "Título Feminino": "Técnica em Siderurgia",
+      "Título Abreviado": "Tec. Siderur."
+    },
+    {
+      "Título Masculino": "Técnico em Soldagem",
+      "Título Feminino": "Técnica em Soldagem",
+      "Título Abreviado": "Tec. Sold."
+    },
+    {
+      "Título Masculino": "Técnico em Usinagem Mecânica",
+      "Título Feminino": "Técnica em Usinagem Mecânica",
+      "Título Abreviado": "Tec. Usinag. Mec."
+    },
+    {
+      "Título Masculino": "Técnico Naval",
+      "Título Feminino": "Técnica Naval",
+      "Título Abreviado": "Tec. Naval"
+    },
+    {
+      "Título Masculino": "Técnico em Metrologia",
+      "Título Feminino": "Técnica em Metrologia",
+      "Título Abreviado": "Tec. Metrol."
+    },
+    {
+      "Título Masculino": "Técnico em Qualidade e Produtividade",
+      "Título Feminino": "Técnica em Qualidade e Produtividade",
+      "Título Abreviado": "Tec. Qualid. Prod."
+    },
+    {
+      "Título Masculino": "Técnico em Tecnologias Finais do Gás",
+      "Título Feminino": "Técnica em Tecnologias Finais do Gás",
+      "Título Abreviado": "Tec. Tecnol. Finais do Gás"
+    },
+    {
+      "Título Masculino": "Técnico em Desenho de Projetos - Mecânica",
+      "Título Feminino": "Técnica em Desenho de Projetos - Mecânica",
+      "Título Abreviado": "Tec. Des. Proj. - Mec."
+    },
+    {
+      "Título Masculino": "Técnico em Montagem e Manut. de Sistemas de Gás Combustível",
+      "Título Feminino": "Técnica em Montagem e Manut. de Sistemas de Gás Combustível",
+      "Título Abreviado": "Tec. Mont. Manut. Sist. Gás Comb."
+    },
+    {
+      "Título Masculino": "Técnico em Alimentos",
+      "Título Feminino": "Técnica em Alimentos",
+      "Título Abreviado": "Tec. Alim."
+    },
+    {
+      "Título Masculino": "Técnico em Borracha",
+      "Título Feminino": "Técnica em Borracha",
+      "Título Abreviado": "Tec. Borrac."
+    },
+    {
+      "Título Masculino": "Técnico em Celulose",
+      "Título Feminino": "Técnica em Celulose",
+      "Título Abreviado": "Tec. Celulose"
+    },
+    {
+      "Título Masculino": "Técnico em Celulose e Papel",
+      "Título Feminino": "Técnica em Celulose e Papel",
+      "Título Abreviado": "Tec. Celulose Papel"
+    },
+    {
+      "Título Masculino": "Técnico em Cerâmica",
+      "Título Feminino": "Técnica em Cerâmica",
+      "Título Abreviado": "Tec. Cer."
+    },
+    {
+      "Título Masculino": "Técnico em Cerveja e Refrigerantes",
+      "Título Feminino": "Técnica em Cerveja e Refrigerantes",
+      "Título Abreviado": "Tec. Cerv. Refrig."
+    },
+    {
+      "Título Masculino": "Técnico em Fiação",
+      "Título Feminino": "Técnica em Fiação",
+      "Título Abreviado": "Tec. Fiação"
+    },
+    {
+      "Título Masculino": "Técnico em Fiação e Tecelagem",
+      "Título Feminino": "Técnica em Fiação e Tecelagem",
+      "Título Abreviado": "Tec. Fiação Tecel."
+    },
+    {
+      "Título Masculino": "Técnico em Malharia",
+      "Título Feminino": "Técnica em Malharia",
+      "Título Abreviado": "Tec. Malharia"
+    },
+    {
+      "Título Masculino": "Técnico em Papel",
+      "Título Feminino": "Técnica em Papel",
+      "Título Abreviado": "Tec. Papel"
+    },
+    {
+      "Título Masculino": "Técnico em Petroquímica",
+      "Título Feminino": "Técnica em Petroquímica",
+      "Título Abreviado": "Tec. Petroq."
+    },
+    {
+      "Título Masculino": "Técnico em Plástico",
+      "Título Feminino": "Técnica em Plástico",
+      "Título Abreviado": "Tec. Plast."
+    },
+    {
+      "Título Masculino": "Técnico em Química",
+      "Título Feminino": "Técnica em Química",
+      "Título Abreviado": "Tec. Quim."
+    },
+    {
+      "Título Masculino": "Técnico em Tecelagem",
+      "Título Feminino": "Técnica em Tecelagem",
+      "Título Abreviado": "Tec. Tecel."
+    },
+    {
+      "Título Masculino": "Técnico em Vestuário",
+      "Título Feminino": "Técnica em Vestuário",
+      "Título Abreviado": "Tec. Vest."
+    },
+    {
+      "Título Masculino": "Técnico Têxtil",
+      "Título Feminino": "Técnica Têxtil",
+      "Título Abreviado": "Tec. Têxtil"
+    },
+    {
+      "Título Masculino": "Técnico em Cervejaria",
+      "Título Feminino": "Técnica em Cervejaria",
+      "Título Abreviado": "Tec. Cerv."
+    },
+    {
+      "Título Masculino": "Técnico em Controle de Qualidade de Alimentos",
+      "Título Feminino": "Técnica em Controle de Qualidade de Alimentos",
+      "Título Abreviado": "Tec. Contrl. Qualid. Alim."
+    },
+    {
+      "Título Masculino": "Técnico em Processamento de Frutas e Hortaliças",
+      "Título Feminino": "Técnica em Processamento de Frutas e Hortaliças",
+      "Título Abreviado": "Tec. Processam. Frutas Hortal."
+    },
+    {
+      "Título Masculino": "Técnico em Materiais",
+      "Título Feminino": "Técnica em Materiais",
+      "Título Abreviado": "Tec. Mat."
+    },
+    {
+      "Título Masculino": "Técnico em Petróleo e Gás",
+      "Título Feminino": "Técnica em Petróleo e Gás",
+      "Título Abreviado": "Tec. Petrol. Gás"
+    },
+    {
+      "Título Masculino": "Técnico em Curtimento",
+      "Título Feminino": "Técnica em Curtimento",
+      "Título Abreviado": "Tec. Curt."
+    },
+    {
+      "Título Masculino": "Técnico em Geologia",
+      "Título Feminino": "Técnica em Geologia",
+      "Título Abreviado": "Tec. Geol."
+    },
+    {
+      "Título Masculino": "Técnico em Mineração",
+      "Título Feminino": "Técnica em Mineração",
+      "Título Abreviado": "Tec. Miner."
+    },
+    {
+      "Título Masculino": "Técnico em Perfuração de Poços",
+      "Título Feminino": "Técnica em Perfuração de Poços",
+      "Título Abreviado": "Tec. Perf. Poços"
+    },
+    {
+      "Título Masculino": "Técnico em Agrimensura",
+      "Título Feminino": "Técnica em Agrimensura",
+      "Título Abreviado": "Tec. Agrim."
+    },
+    {
+      "Título Masculino": "Técnico em Fotogrametria",
+      "Título Feminino": "Técnica em Fotogrametria",
+      "Título Abreviado": "Tec. Fotogram."
+    },
+    {
+      "Título Masculino": "Técnico em Geodésia e Cartografia",
+      "Título Feminino": "Técnica em Geodésia e Cartografia",
+      "Título Abreviado": "Tec. Geod. Cartog."
+    },
+    {
+      "Título Masculino": "Técnico em Topografia",
+      "Título Feminino": "Técnica em Topografia",
+      "Título Abreviado": "Tec. Topog."
+    },
+    {
+      "Título Masculino": "Técnico em Geomensura",
+      "Título Feminino": "Técnica em Geomensura",
+      "Título Abreviado": "Tec. Geom."
+    },
+    {
+      "Título Masculino": "Técnico Desenhista de Arquitetura",
+      "Título Feminino": "Técnica Desenhista de Arquitetura",
+      "Título Abreviado": "Tec. Des. Arq."
+    },
+    {
+      "Título Masculino": "Técnico em Decoração",
+      "Título Feminino": "Técnica em Decoração",
+      "Título Abreviado": "Tec. Decor."
+    },
+    {
+      "Título Masculino": "Técnico em Maquetaria",
+      "Título Feminino": "Técnica em Maquetaria",
+      "Título Abreviado": "Tec. Maquet."
+    },
+    {
+      "Título Masculino": "Técnico em Paisagismo",
+      "Título Feminino": "Técnica em Paisagismo",
+      "Título Abreviado": "Tec. Paisag."
+    },
+    {
+      "Título Masculino": "Técnico de Segurança do Trabalho",
+      "Título Feminino": "Técnica de Segurança do Trabalho",
+      "Título Abreviado": "Tec. Seg. Trab."
+    }
+  ]
+}
