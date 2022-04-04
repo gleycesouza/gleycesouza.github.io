@@ -1,0 +1,271 @@
+{
+  "Table 1": [
+    {
+      "especie_inss": "01 - PENSÃO POR MORTE"
+    },
+    {
+      "especie_inss": "02 - PENSÃO POR MORTE POR ACIDENTE DE TRABALHO"
+    },
+    {
+      "especie_inss": "03 - PENSÃO"
+    },
+    {
+      "especie_inss": "04 - APOSENTADORIA POR INVALIDEZ"
+    },
+    {
+      "especie_inss": "05 - APOSENTADORIA POR INVALIDEZ POR ACIDENTE DE TRABALHO"
+    },
+    {
+      "especie_inss": "06 - APOSENTADORIA POR INVALIDEZ"
+    },
+    {
+      "especie_inss": "07 - APOSENTADORIA POR IDADE"
+    },
+    {
+      "especie_inss": "08 - APOSENTADORIA POR IDADE"
+    },
+    {
+      "especie_inss": "09 - COMPLEMENTO POR ACIDENTE DE TRABALHO"
+    },
+    {
+      "especie_inss": "10 - AUXÍLIO DOENÇA ACIDENTÁRIO"
+    },
+    {
+      "especie_inss": "11 - AMPARO PREVIDENCIÁRIO POR INVALIDEZ"
+    },
+    {
+      "especie_inss": "12 - AMPARO PREVIDENCIÁRIO POR IDADE"
+    },
+    {
+      "especie_inss": "13 - AUXÍLIO DOENÇA"
+    },
+    {
+      "especie_inss": "15 - AUXÍLIO RECLUSÃO"
+    },
+    {
+      "especie_inss": "19 - PENSÃO DE ESTUDANTE"
+    },
+    {
+      "especie_inss": "20 - PENSÃO POR MORTE"
+    },
+    {
+      "especie_inss": "21 - PENSÃO POR MORTE PREVIDENCIÁRIA"
+    },
+    {
+      "especie_inss": "22 - PENSÃO POR MORTE ESTATUTÁRIA"
+    },
+    {
+      "especie_inss": "23 - PENSÃO POR MORTE"
+    },
+    {
+      "especie_inss": "24 - PENSÃO ESPECIAL"
+    },
+    {
+      "especie_inss": "25 - AUXÍLIO RECLUSÃO"
+    },
+    {
+      "especie_inss": "26 - PENSÃO ESPECIAL"
+    },
+    {
+      "especie_inss": "27 - PENSÃO POR MORTE"
+    },
+    {
+      "especie_inss": "28 - PENSÃO POR MORTE DO REGIME GERAL"
+    },
+    {
+      "especie_inss": "29 - PENSÃO POR MORTE"
+    },
+    {
+      "especie_inss": "30 - RENDA MENSAL VITALÍCIA POR INCAPACIDADE"
+    },
+    {
+      "especie_inss": "31 - AUXÍLIO DOENÇA PREVIDENCIÁRIO"
+    },
+    {
+      "especie_inss": "32 - APOSENTADORIA POR INVALIDEZ PREVIDENCIÁRIA"
+    },
+    {
+      "especie_inss": "33 - APOSENTADORIA POR INVALIDEZ"
+    },
+    {
+      "especie_inss": "34 - APOSENTADORIA POR MORTE"
+    },
+    {
+      "especie_inss": "36 - AUXÍLIO ACIDENTE PREVIDENCIÁRIO"
+    },
+    {
+      "especie_inss": "37 - APOSENTADORIA DE EXTRANUMERÁRIO DA UNIÃO"
+    },
+    {
+      "especie_inss": "38 - APOSENTADORIA DA EXTINTA CAPIN"
+    },
+    {
+      "especie_inss": "39 - AUXÍLIO INVALIDEZ DE ESTUDANTE"
+    },
+    {
+      "especie_inss": "40 - RENDA MENSAL VITALÍCIA A MAIORES DE 70 ANOS"
+    },
+    {
+      "especie_inss": "41 - APOSENTADORIA POR IDADE"
+    },
+    {
+      "especie_inss": "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO PREVIDENCIÁRIA"
+    },
+    {
+      "especie_inss": "43 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO"
+    },
+    {
+      "especie_inss": "44 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO"
+    },
+    {
+      "especie_inss": "45 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO"
+    },
+    {
+      "especie_inss": "46 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO ESPECIAL"
+    },
+    {
+      "especie_inss": "47 - ABONO DE PERMANÊNCIA EM SERVIÇO (25%)"
+    },
+    {
+      "especie_inss": "48 - ABONO DE PERMANÊNCIA EM SERVIÇO (20%)"
+    },
+    {
+      "especie_inss": "49 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO ORDINÁRIA"
+    },
+    {
+      "especie_inss": "50 - AUXÍLIO DOENÇA EXTINTO PLANO BÁSICO"
+    },
+    {
+      "especie_inss": "51 - APOSENTADORIA POR INVALIDEZ"
+    },
+    {
+      "especie_inss": "52 - APOSENTADORIA POR IDADE"
+    },
+    {
+      "especie_inss": "53 - AUXÍLIO RECLUSÃO"
+    },
+    {
+      "especie_inss": "55 - PENSÃO POR MORTE"
+    },
+    {
+      "especie_inss": "56 - PENSÃO ESPECIAL SÍNDROME DE TALIDOMIDA"
+    },
+    {
+      "especie_inss": "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO"
+    },
+    {
+      "especie_inss": "58 - APOSENTADORIA EXCEPCIONAL"
+    },
+    {
+      "especie_inss": "59 - PENSÃO POR MORTE EXCEPCIONAL"
+    },
+    {
+      "especie_inss": "61 - AUXÍLIO NATALIDADE"
+    },
+    {
+      "especie_inss": "62 - AUXÍLIO FUNERAL"
+    },
+    {
+      "especie_inss": "65 - PECÚLIO ESPECIAL DE SERVIDOR AUTÁRQUICO"
+    },
+    {
+      "especie_inss": "66 - PECÚLIO ESPECIAL DE SERVIDOR AUTÁRQUICO DECRETO"
+    },
+    {
+      "especie_inss": "68 - PECÚLIO ESPECIAL DE APOSENTADO"
+    },
+    {
+      "especie_inss": "69 - PECÚLIO DE ESTUDANTE"
+    },
+    {
+      "especie_inss": "70 - PECÚLIO ESPECIAL ENTRADA COM MAIS DE 60 ANOS"
+    },
+    {
+      "especie_inss": "71 - SALÁRIO FAMÍLIA PREVIDENCIÁRIO"
+    },
+    {
+      "especie_inss": "72 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO"
+    },
+    {
+      "especie_inss": "73 - SALÁRIO FAMÍLIA ESTATUTÁRIO DECRETO"
+    },
+    {
+      "especie_inss": "74 - COMPLEMENTO DE PENSÃO À CONTA DA UNIÃO"
+    },
+    {
+      "especie_inss": "75 - COMPLEMENTO A APOSENTADORIA À CONTA DA UNIÃO"
+    },
+    {
+      "especie_inss": "76 - SALÁRIO FAMÍLIA ESTATUTÁRIO DECRETO"
+    },
+    {
+      "especie_inss": "77 - SALÁRIO FAMÍLIA DOS SERVIDORES INPS / IAPFEST"
+    },
+    {
+      "especie_inss": "78 - APOSENTADORIA POR IDADE"
+    },
+    {
+      "especie_inss": "79 - VANTAGENS DA LEI 1756/52 SERVIDOR APOSENTADO"
+    },
+    {
+      "especie_inss": "80 - SALÁRIO MATERNIDADE"
+    },
+    {
+      "especie_inss": "81 - APOSENTADORIA POR IDADE COMPULSÓRIA"
+    },
+    {
+      "especie_inss": "82 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO"
+    },
+    {
+      "especie_inss": "83 - APOSENTADORIA POR INVALIDEZ"
+    },
+    {
+      "especie_inss": "84 - PENSÃO POR MORTE"
+    },
+    {
+      "especie_inss": "85 - PENSÃO MENSAL VITALÍCIA"
+    },
+    {
+      "especie_inss": "86 - PENSÃO MENSAL VITALÍCIA"
+    },
+    {
+      "especie_inss": "87 - AMPARO ASSISTENCIAL AO DEFICIENTE"
+    },
+    {
+      "especie_inss": "87 - BENEFICIO DE PRESTACAO CONTINUADA A PESSOA COM DEFICIENCIA"
+    },
+    {
+      "especie_inss": "88 - AMPARO ASSISTENCIAL AO IDOSO"
+    },
+    {
+      "especie_inss": "88 - BENEFICIO DE PRESTACAO CONTINUADA A PESSOA IDOSA"
+    },
+    {
+      "especie_inss": "89 - PENSÃO ESPACIAL HEMODIÁLISE"
+    },
+    {
+      "especie_inss": "91 - AUXÍLIO DOENÇA POR ACIDENTE DE TRABALHO"
+    },
+    {
+      "especie_inss": "92 - APOSENTADORIA POR INVALIDEZ"
+    },
+    {
+      "especie_inss": "93 - PENSÃO POR MORTE"
+    },
+    {
+      "especie_inss": "94 - AUXÍLIO ACIDENTE"
+    },
+    {
+      "especie_inss": "95 - AUXÍLIO SUPLEMENTAR"
+    },
+    {
+      "especie_inss": "96 - PECÚLIO POR INVALIDEZ POR ACIDENTE DE TRABALHO"
+    },
+    {
+      "especie_inss": "97 - PECÚLIO POR MORTE POR ACIDENTE DE TRABALHO"
+    },
+    {
+      "especie_inss": "99 - AFASTAMENTO DE 15 (QUINZE) DIAS PARA ACIDENTE DE TRABALHO"
+    }
+  ]
+}
